@@ -1,9 +1,9 @@
 # Bootstrap
 
-Bootstrap을 이용한 포트폴리오 사이트 제작 연습
+Bootstrap 기본 학습
 
 <h1>참고로 알아두면 좋은 페이지</h1>
-    <p>부트스트랩 내 Examples를 보셔도 좋습니다.</p>
+    <p>부트스트랩 내 Examples</p>
     <p>무료 테마 : https://startbootstrap.com/</p>
     <p>테마 구매 : https://themes.getbootstrap.com/</p>
     <p>테마 구매 : https://wrapbootstrap.com/</p>
